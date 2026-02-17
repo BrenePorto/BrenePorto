@@ -1,6 +1,6 @@
 **`Desenvolvedor FullStack`**
 
-Me chamo Leandro Brene, tenho 29 anos e sou natural do Rio de Janeiro. Concluí o curso técnico de informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistema pela Estácio. Sou apaixonado por tecnologia e esporte de alto nível.
+Me chamo Leandro Brene, tenho 29 anos e sou natural do Rio de Janeiro. Concluí o curso técnico de informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistema pela Estácio. Sou apaixonado por tecnologia e por esporte de alto nível.
 
 ### 🤖 Linguagens e Tecnologias
 
