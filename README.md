@@ -68,4 +68,12 @@ Me chamo Leandro Brene, tenho 29 anos e sou natural do Rio de Janeiro. Concluí 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg](https://www.vhv.rs/dpng/d/500-5004244_transparent-big-data-icon-png-big-data-and.png" 
+/>
 
